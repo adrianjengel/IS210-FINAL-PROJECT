@@ -1,5 +1,3 @@
-#!/usr/bin/env rst
-# -*- coding: utf-8 -*-
 
 *************************************
 Small Law Firm Client Administration
