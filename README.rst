@@ -24,7 +24,7 @@ Problem Scenario: Mike keeps track of his work activities in a log book. Once a 
 
 Current Alternative: He could hire a secretary or an accountant so he doesn’t have to do all the billing himself. However, that would incur overhead costs and hurt his bottom-line. Instead, Mike wants to save as much money as he can so he can retire early and play golf every day.
 
-Value proposition: A software that allows Mike to enter his time and keep track of settled bills would do all the calculating thus reducing errors and inaccuracies. Since everything is done automatically, he also saves time and can thus work on improving his golf swing. 
+Value proposition: A software that allows Mike to enter his time and keep track of settled bills would do all the calculating thus reducing errors and inaccuracies. Since everything is done automatically, he also saves time and can instead spend more time on the golf course to improve his swing. 
 
 -------------
 User Stories:
