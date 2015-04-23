@@ -51,8 +51,8 @@ Where I can enter the client and matter number, code of expense that was incurre
 Scenario 2:
 +++++++++++
 
-|Given that I want to accurately bill my clients once a month,
-|And I have done work in the past month for a particular client,
+"|"Given that I want to accurately bill my clients once a month,
+"|"And I have done work in the past month for a particular client,
 |When I click the *Create Bill* button,
 |I will get a list of the work/expense for each client, showing the total work hours and amount owed by client,
 |Ready to be printed and mailed to the client.
