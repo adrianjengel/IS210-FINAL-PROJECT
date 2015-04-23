@@ -40,5 +40,29 @@ Acceptance Stories:
 Scenario 1:
 +++++++++++
 
+Given that I have multiple client's cases I am working on at any given time,
+And those cases are all active and ongoing,
+And I have done work for a particular case in the past week,
+When I click the *Enter Time* button,
+I will be taken to a work form screen,
+Where I can enter the client and matter number, code of expense that was incurred or work in minutes that was peformed.
 
++++++++++++
+Scenario 2:
++++++++++++
 
+Given that I want to accurately bill my clients once a month,
+And I have done work in the past month for a particular client,
+When I click the *Create Bill* button,
+I will get a list of the work/expense for each client, showing the total work hours and amount owed by client,
+Ready to be printed and mailed to the client.
+
++++++++++++
+Scenario 3:
++++++++++++
+
+Given that I want to have an accurate overview of all my work done at any given time,
+When I click the *Generate Report* button,
+I will get prompted for a time period with a start and end date,
+That will list all the work done for each client during this period, including a total of work hours and amount billed to the clients,
+Ready to be printed in a list form.
