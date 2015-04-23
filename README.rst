@@ -45,7 +45,7 @@ Scenario 1:
 | And I have done work for a particular case in the past week,
 | When I click the *Enter Time* button,
 | I will be taken to a work form screen,
-| Where I can enter the client and matter number, code of expense that was incurred or work in minutes that was peformed.
+| Where I can enter the client and matter number, code of expense that was incurred or work in minutes that was performed.
 
 +++++++++++
 Scenario 2:
