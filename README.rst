@@ -30,4 +30,15 @@ Value proposition: A software that allows Mike to enter his time and keep track 
 User Stories:
 -------------
 
-As Mike the lawyer, I want to automate my billing so that I can reduce errors and time spent doing administrative work. 
+As Mike the lawyer, I want to automate my billing so that I can reduce errors and time spent doing administrative work.
+
+-------------------
+Acceptance Stories:
+-------------------
+
++++++++++++
+Scenario 1:
++++++++++++
+
+
+
