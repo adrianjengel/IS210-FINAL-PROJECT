@@ -40,12 +40,12 @@ Acceptance Stories:
 Scenario 1:
 +++++++++++
 
-Given that I have multiple client's cases I am working on at any given time,
-And those cases are all active and ongoing,
-And I have done work for a particular case in the past week,
-When I click the *Enter Time* button,
-I will be taken to a work form screen,
-Where I can enter the client and matter number, code of expense that was incurred or work in minutes that was peformed.
+| Given that I have multiple client's cases I am working on at any given time,
+| And those cases are all active and ongoing,
+| And I have done work for a particular case in the past week,
+| When I click the *Enter Time* button,
+| I will be taken to a work form screen,
+| Where I can enter the client and matter number, code of expense that was incurred or work in minutes that was peformed.
 
 +++++++++++
 Scenario 2:
@@ -61,8 +61,8 @@ Scenario 2:
 Scenario 3:
 +++++++++++
 
-Given that I want to have an accurate overview of all my work done at any given time,
-When I click the *Generate Report* button,
-I will get prompted for a time period with a start and end date,
-That will list all the work done for each client during this period, including a total of work hours and amount billed to the clients,
-Ready to be printed in a list form.
+| Given that I want to have an accurate overview of all my work done at any given time,
+| When I click the *Generate Report* button,
+| I will get prompted for a time period with a start and end date,
+| That will list all the work done for each client during this period, including a total of work hours and amount billed to the clients,
+| Ready to be printed in a list form.
